@@ -23,13 +23,13 @@
 
 <!--START_SECTION:waka-->
 
-### About Minami-su
+### 𝑨𝒃𝒐𝒖𝒕 𝑴𝒊𝒏𝒂𝒎𝒊-𝒔𝒖
 
-Welcome to Minami-su's GitHub home.
+𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝑴𝒊𝒏𝒂𝒎𝒊-𝒔𝒖'𝒔 𝑮𝒊𝒕𝑯𝒖𝒃 𝒉𝒐𝒎𝒆.
 
-github：[github.com/Minami-su](https://github.com/Minami-su)
+𝑮𝒊𝒕𝑯𝒖𝒃:[github.com/Minami-su](https://github.com/Minami-su)
 
-huggingface：[huggingface.co/Minami-su](https://huggingface.co/Minami-su)  
+𝑯𝒖𝒈𝒈𝒊𝒏𝒈𝒇𝒂𝒄𝒆：[huggingface.co/Minami-su](https://huggingface.co/Minami-su)  
 
 
 🌟 **𝑴𝒚 𝑺𝒌𝒊𝒍𝒍𝒔**
