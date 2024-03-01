@@ -12,8 +12,8 @@
 
 
 <!--START_SECTION:waka-->
-![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=000000)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=000000)
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=ffffff)
 ![](https://img.shields.io/badge/-pytorch-ffffff?style=flat-square&logo=pytorch&logoColor=)
 
 
