@@ -19,10 +19,21 @@
 <!--START_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minami-su&hide_progress=true&show_icons=true&theme=merko&bg_color=cfff,cfff,ffffff")
-@font-face { font-family: "DokiDokiFantasia"; src: url("https://github.com/Minami-su/Minami-su/blob/main/DokiDokiFantasia.ttf");}
 
-<font face="DokiDokiFantasia" color=#7E7E7E size=4>
 
+<style>
+
+@font-face {
+
+font-family: "DokiDokiFantasia";
+
+src: url("https://github.com/Minami-su/Minami-su/blob/main/DokiDokiFantasia.ttf") format("truetype");
+
+}
+
+</style>
+
+<div style="font-family: 'DokiDokiFantasia', sans-serif;">
 ### 关于Minami-su
 
 欢迎来到Minami-su的GitHub主页。
@@ -64,7 +75,7 @@ huggingface：[huggingface.co/Minami-su](https://huggingface.co/Minami-su)
 29. Performed model scoring using LM-evaluation-harness (Huggingface leaderboard) and MT-bench.
 30. Tested model context ability using NeedleInAHaystack.
 31. Able to guide new colleagues in quickly acclimating to their roles.
-</font>
+</div>
 
 
 
