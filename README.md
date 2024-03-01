@@ -5,7 +5,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Minami-su&count_private=true&show_icons=true&theme=merko&bg_color=cfff,cfff,ffffff" />
 
 </a>
-<img align='left' src="assets/Amara.jpg" height="375">
+<img align='left' src="[assets/Amara.jpg](https://github.com/Minami-su/Minami-su/blob/main/assets/Amara.jpg)" height="375">
 
 
 
