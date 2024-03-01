@@ -23,9 +23,9 @@
 
 <!--START_SECTION:waka-->
 
-### 关于Minami-su
+### About Minami-su
 
-欢迎来到Minami-su的GitHub主页。
+Welcome to Minami-su's GitHub home.
 
 github：[github.com/Minami-su](https://github.com/Minami-su)
 
