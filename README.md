@@ -27,7 +27,7 @@
 
 font-family: "DokiDokiFantasia";
 
-src: url("https://github.com/Minami-su/Minami-su/blob/main/DokiDokiFantasia.ttf") format("truetype");
+src: url("DokiDokiFantasia.ttf") format("truetype");
 
 }
 
