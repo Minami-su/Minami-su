@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=FFFFFF&vCenter=true&width=200&height=40&lines=𝑯𝒊+𝑾𝒆𝒍𝒄𝒐𝒎𝒆+%F0%9F%91%8B%F0%9F%8F%BB;𝑰'𝒎+𝑴𝒊𝒏𝒂𝒎𝒊-𝒔𝒖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=AAE85D&vCenter=true&width=200&height=40&lines=𝑯𝒊+𝑾𝒆𝒍𝒄𝒐𝒎𝒆+%F0%9F%91%8B%F0%9F%8F%BB;𝑰'𝒎+𝑴𝒊𝒏𝒂𝒎𝒊-𝒔𝒖)](https://git.io/typing-svg)
 
 <a href="#">
  
