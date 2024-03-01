@@ -12,13 +12,13 @@
 
 
 <!--START_SECTION:waka-->
-![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=000000)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=000000)
 ![](https://img.shields.io/badge/-pytorch-ffffff?style=flat-square&logo=pytorch&logoColor=)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minami-su&hide_progress=true&show_icons=true&theme=merko&bg_color=cfff,cfff,ffffff")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minami-su&hide_progress=true&show_icons=true&theme=merko&bg_color=000000,000000,000000")
 
 <!--END_SECTION:waka-->
 
