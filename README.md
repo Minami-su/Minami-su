@@ -11,6 +11,10 @@
 
 
 
+<!--START_SECTION:waka-->
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-pytorch-ffffff?style=flat-square&logo=pytorch&logoColor=)
 
 <!--START_SECTION:waka-->
 
@@ -61,10 +65,6 @@ huggingface：[huggingface.co/Minami-su](https://huggingface.co/Minami-su)
 31. Able to guide new colleagues in quickly acclimating to their roles.
 </font>
 
-<!--START_SECTION:waka-->
-![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
-![](https://img.shields.io/badge/-pytorch-ffffff?style=flat-square&logo=pytorch&logoColor=)
 
 
 
