@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=cfff&vCenter=true&width=200&height=40&lines=Hi+Welcome+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Minami-su)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=000000&vCenter=true&width=200&height=40&lines=Hi+Welcome+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Minami-su)](https://git.io/typing-svg)
 
 <a href="#">
  
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Minami-su&count_private=true&show_icons=true&theme=merko&bg_color=cfff,cfff,ffffff" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Minami-su&count_private=true&show_icons=true&theme=merko&bg_color=000000,000000,000000" />
 
 </a>
 <img align='left' src="https://github.com/Minami-su/Minami-su/blob/main/assets/Amara.jpg" height="375">
