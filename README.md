@@ -16,14 +16,13 @@
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=ffffff)
 ![](https://img.shields.io/badge/-pytorch-ffffff?style=flat-square&logo=pytorch&logoColor=)
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minami-su&hide_progress=true&show_icons=true&theme=merko&bg_color=000000,000000,000000")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minami-su&hide_progress=true&show_icons=true&bg_color=ffffff,ffffff,ffffff")
 
 <!--END_SECTION:waka-->
 
 
 <!--START_SECTION:waka-->
+
 ### 关于Minami-su
 
 欢迎来到Minami-su的GitHub主页。
@@ -65,7 +64,7 @@ huggingface：[huggingface.co/Minami-su](https://huggingface.co/Minami-su)
 29. Performed model scoring using LM-evaluation-harness (Huggingface leaderboard) and MT-bench.
 30. Tested model context ability using NeedleInAHaystack.
 31. Able to guide new colleagues in quickly acclimating to their roles.
-</font>
+
 
 
 
