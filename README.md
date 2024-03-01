@@ -19,8 +19,9 @@
 <!--START_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minami-su&hide_progress=true&show_icons=true&theme=merko&bg_color=cfff,cfff,ffffff")
+@font-face { font-family: "DokiDokiFantasia"; src: url("https://github.com/Minami-su/Minami-su/blob/main/DokiDokiFantasia.ttf");}
 
-<font face="https://github.com/Minami-su/Minami-su/blob/main/DokiDokiFantasia.ttf" color=#7E7E7E size=4>
+<font face="DokiDokiFantasia" color=#7E7E7E size=4>
 
 ### 关于Minami-su
 
