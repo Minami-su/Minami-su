@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=000000&vCenter=true&width=200&height=40&lines=𝑯𝒊+𝑾𝒆𝒍𝒄𝒐𝒎𝒆+%F0%9F%91%8B%F0%9F%8F%BB;𝑰'𝒎+𝑴𝒊𝒏𝒂𝒎𝒊-𝒔𝒖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=FFFFFF&vCenter=true&width=200&height=40&lines=𝑯𝒊+𝑾𝒆𝒍𝒄𝒐𝒎𝒆+%F0%9F%91%8B%F0%9F%8F%BB;𝑰'𝒎+𝑴𝒊𝒏𝒂𝒎𝒊-𝒔𝒖)](https://git.io/typing-svg)
 
 <a href="#">
  
@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=ffffff)
 ![](https://img.shields.io/badge/-pytorch-ffffff?style=flat-square&logo=pytorch&logoColor=)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minami-su&hide_progress=true&show_icons=true&bg_color=ffffff,ffffff,ffffff")
+
 
 <!--END_SECTION:waka-->
 
